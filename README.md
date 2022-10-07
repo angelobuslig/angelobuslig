@@ -1,7 +1,7 @@
 ### Hi there, I'm Angelo! 👋
 
 # 💫 About Me:
-🔭 I’m currently working on backend projects<br>👯 I’m looking to collaborate on anything that could improve my programming skills<br>🤝 I’m looking for help with improving my frontend skills<br>🌱 I’m currently learning more about mobile development<br>💬 Ask me about any tech-related stuff<br>📫 How to reach me: angelobuslig@gmail.com
+🔭 I’m currently working on backend projects<br>👯 I’m looking to collaborate on anything that could improve my programming skills<br>🤝 I’m looking for help with improving my frontend skills<br>🌱 I’m currently learning more about mobile development<br>💬 Ask me about any tech-related stuff<br>📫 You may reach me athrough my email, angelobuslig@gmail.com
 
 
 ## 🌐 Socials:
