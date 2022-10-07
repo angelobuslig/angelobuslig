@@ -1,4 +1,5 @@
-### Hi there, I'm Angelo! 👋
+# Hi there, I'm Angelo! 👋
+### I'm a trainer, mentor, and a .NET developer with more than 10 years of professional experience. I am currently working for Gold Group Enterprises, Inc. wherein we develop enterprise applications using .NET, Angular and Azure. I have a passion in learning and loves challenges. I always see to it that a simple plan or proposal turns into a well-defined and tested solution.
 
 # 💫 About Me:
 🔭 I’m currently working on backend projects<br>👯 I’m looking to collaborate on anything that could improve my programming skills<br>🤝 I’m looking for help with improving my frontend skills<br>🌱 I’m currently learning more about mobile development<br>💬 Ask me about any tech-related stuff<br>📫 You may reach me athrough my email, angelobuslig@gmail.com
